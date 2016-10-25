@@ -1,0 +1,7 @@
+#! /bin/bash -e
+
+mkdir -p /tmp/debSample;
+echo "directory /tmp/debSample created"
+
+cp /tmp/sampleFiles/*.* /tmp/debSample
+echo "completed installing plugins"

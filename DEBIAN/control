@@ -1,0 +1,6 @@
+Package: DebSample
+Version: 1.1
+Priority: standard
+Architecture: all
+Maintainer: ambarish <ambarish510@gmail.com>
+Description: debian sample

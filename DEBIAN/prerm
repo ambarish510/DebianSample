@@ -1,0 +1,5 @@
+#!/bin/bash -e
+# set -x
+echo "running prerm"
+rm -rf /tmp/sampleFile;
+echo "completed prerm"
